@@ -1,0 +1,11 @@
+torch
+einops
+torchviz
+tensorboard
+scipy
+numpy
+matplotlib
+torch_geometric
+#torch-cluster
+vtk
+timm
